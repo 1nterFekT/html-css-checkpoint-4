@@ -1,0 +1,16 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.page-wrapper {
+    width: 940px;
+    height: 980px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.icon-circle svg {
+    width: 77px;
+    height: 77px;
+}
